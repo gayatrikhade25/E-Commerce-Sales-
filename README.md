@@ -1,7 +1,7 @@
 # E-Commerce-Sales-
 This HR Analytics Dashboard provides a comprehensive analysis of employee attrition within an organization. It helps HR teams and management understand workforce dynamics, identify patterns in employee turnover, and make informed decisions to improve retention strategies.
 
-🔎 Dashboard Overview
+Dashboard Overview:
 
 The dashboard summarizes key HR metrics and visualizes attrition trends across multiple dimensions:
 
@@ -41,7 +41,7 @@ Sales Representative (33)
 
 Department-wise View: The dashboard provides filters across Human Resources, Research & Development, and Sales, enabling deeper analysis.
 
-🚀 Key Benefits
+Key Benefits:
 
 Provides HR managers with data-driven insights to design retention policies.
 
